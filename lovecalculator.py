@@ -8,7 +8,7 @@ for row in range(6):
 print(  "THIS is the love calculator software wich calculate your love percentage")
 
 name = input("Enter your name ?")
-name2 = input("Enter the name of the person With you want to check youur love percentage?")
+name2 = input("Enter the name of the person With you want to check youur love percentage?Tero chamma ko nam vannn")
 
 if name == "samir" and name2 == "mia":
     print(f"The love percentage of {name} and {name2} is 100 percentage")
